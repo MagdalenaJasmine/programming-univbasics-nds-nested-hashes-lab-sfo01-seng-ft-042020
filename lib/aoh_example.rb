@@ -12,7 +12,7 @@ def assembled_aoh
   [
   {:name =>"Don Gately", :occupation =>"Live-in Staff"}, 
   {:name =>"Joelle van Dyne", :occupation =>"Radio Personality"},
-  {:name => "Pat M"
+  {:name => "Pat M", :occupation 
 end
 
 def literal_aoh
